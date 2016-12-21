@@ -4,7 +4,7 @@
 ## Install
 
 ```
-$ npm install --g pcp-solver-cli
+$ npm install -g pcp-solver-cli
 ```
 
 ## Usage
