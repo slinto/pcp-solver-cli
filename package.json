@@ -1,6 +1,6 @@
 {
   "name": "pcp-solver-cli",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Post's Correspondence Problem CLI solver",
   "license": "MIT",
   "repository": "slinto/pcp-solver-cli",
