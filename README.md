@@ -19,8 +19,8 @@ $ pcp-solver --help
     --depth <number> Set depth of three (30 DEFAULT)
 
   Examples
-    $ node cli.js 010/0 00/100 11/01
-    $ node cli.js 010/0 00/100 11/01 --depth 50
+    $ pcp-solver 010/0 00/100 11/01
+    $ pcp-solver 010/0 00/100 11/01 --depth 50
 
 ```
 
