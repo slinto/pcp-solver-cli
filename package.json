@@ -1,0 +1,39 @@
+{
+  "name": "pcp-solver-cli",
+  "version": "0.0.0",
+  "description": "Post's Correspondence Problem CLI solver",
+  "license": "MIT",
+  "repository": "slinto/pcp-solver-cli",
+  "author": {
+    "name": "Tomáš Stankovič (slinto)",
+    "email": "hello@slinto.sk",
+    "url": "slinto.sk"
+  },
+  "bin": {
+    "pcp-solver": "cli.js"
+  },
+  "engines": {
+    "node": ">=4.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "cli.js"
+  ],
+  "keywords": [
+    "cli",
+    "cli-app",
+    "pcp",
+    "solver",
+    "posts correspondence"
+  ],
+  "dependencies": {
+    "meow": "^3.7.0"
+  },
+  "devDependencies": {
+    "ava": "^0.17.0",
+    "execa": "^0.5.0",
+    "xo": "^0.17.1"
+  }
+}
