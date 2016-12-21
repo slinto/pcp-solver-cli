@@ -16,11 +16,11 @@ $ pcp-solver --help
     $ pcp-solder <data>
 
   Options
-    --graphic Show result as dominos
+    --depth <number> Set depth of three (30 DEFAULT)
 
   Examples
-   $ node cli.js 010/0 00/100 11/01
-   $ node cli.js 010/0 00/100 11/01 --graphic
+    $ node cli.js 010/0 00/100 11/01
+    $ node cli.js 010/0 00/100 11/01 --depth 50
 
 ```
 
